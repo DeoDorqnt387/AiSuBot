@@ -99,7 +99,7 @@ class Client(commands.CommandsClient):
 
 async def main():
     async with aiohttp.ClientSession() as session:
-        client = Client(session, "igVo8U5Ma3nAi4NLNGCOsueArN9v_-XpfuA3NA1t0Hsf4XDzA7SEDbJp84-XCse4")
+        client = Client(session, "your-token")
         await client.start()
 
 asyncio.run(main())
