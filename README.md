@@ -14,5 +14,5 @@ You can get useless anime details with that bot. Yea that's all.
 
 New Features that i want to add:
 - Maybe chat(?) with ai
-- İmage generation ( i really need that)
+- Image generation ( i really need that)
 - ?
